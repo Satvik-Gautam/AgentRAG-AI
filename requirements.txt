@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langgraph
+cassio
+tiktoken
+langchain-groq
+langchainhub
+langchain_huggingface
+wikipedia
+python-dotenv
+PyMuPDF
+streamlit
+requests
+beautifulsoup4
+sentence-transformers
+langchain-tavily
