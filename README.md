@@ -5,6 +5,11 @@ This project brings together the power of LangChain, LLMs from Groq (Gemma/DeepS
 
 ---
 
+### Hugging Face Space
+- Try the live demo of the AI Agentic RAG application on Hugging Face Spaces: [HuggingFace Space Link](https://huggingface.co/spaces/SATVIKGAUTAM/AI-AgenticRAG)
+
+---
+
 ## 📌 Project Overview
 
 **AgentRAG AI** is a fully agentic, production-grade Retrieval-Augmented Generation (RAG) system designed to intelligently answer user queries by dynamically retrieving information from either private documents (uploaded by the user) or real-time web content.
