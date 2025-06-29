@@ -229,8 +229,6 @@ AgentRAG AI integrates a modern, scalable, and modular tech stack built specific
 ### ✅ Prerequisites
 
 - Python 3.8 or higher  
-- FFmpeg (for any media processing, optional)  
-- PortAudio (for microphone input, optional if voice input is used)  
 - A Groq API Key – [Get it here](https://console.groq.com/)  
 - A Tavily API Key – [Get it here](https://app.tavily.com/)  
 - An Astra DB Token + Database ID – [Sign up at DataStax](https://www.datastax.com/astra)  
